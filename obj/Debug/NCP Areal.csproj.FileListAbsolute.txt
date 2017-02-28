@@ -1,0 +1,19 @@
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\Prog.exe.config
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\Prog.exe
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\Prog.pdb
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\Livecharts.dll
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\Livecharts.pdb
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\Livecharts.xml
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\obj\Debug\Prog.Form1.resources
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\obj\Debug\Prog.Properties.Resources.resources
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\obj\Debug\NCP Areal.csproj.GenerateResource.Cache
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\obj\Debug\Prog.exe
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\obj\Debug\Prog.pdb
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\obj\Debug\NCP Areal.csprojResolveAssemblyReference.cache
+C:\Users\Morik\Desktop\Комаров\Диплом\Prog\Prog\obj\Debug\Prog.Form2.resources
